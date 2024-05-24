@@ -13,15 +13,9 @@
 - **Tools**: MongoDB, Android Studio, Kali Linux
 
 ## Projects
-### [Project Name](link to repository)
-[Short description]
-
-### [Project Name](link to repository)
-[Short description]
-
-## Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+### [Emotion Music Recommendation engine](https://github.com/jeetx78/emotion-music-recommendation)
+[The emotion recognition model is trained on FER 2013 dataset. It can detect 7 emotions. The project works by getting live video feed from web cam, pass it through the model to get a prediction of emotion. Then according to the emotion predicted, the app will fetch playlist of songs from Spotify through spotipy wrapper and recommend the songs by displaying them on the screen.]
 
 ## Connect with Me
-[LinkedIn](www.linkedin.com/in/kamal-jeet-607050245) | [Instagram](https://www.instagram.com/dotk25?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamal-jeet-607050245) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dotk25?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
